@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProyectoControlNotas"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\ProyectoControlNotas\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
