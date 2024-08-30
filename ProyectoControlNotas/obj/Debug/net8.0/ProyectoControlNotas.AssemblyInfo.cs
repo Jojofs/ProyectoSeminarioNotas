@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoControlNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fd66319deb0d713dfc1cec54260181897c4a26f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoControlNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoControlNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
