@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoControlNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f18d93f97866fb9d776a234cc109e84cbba8147")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5155208c0e63aa652d67471dae4b7daa31f997e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoControlNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoControlNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

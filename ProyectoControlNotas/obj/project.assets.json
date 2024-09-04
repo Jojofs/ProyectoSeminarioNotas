@@ -8580,24 +8580,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jojo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jorgecifuentes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jojo\\Documents\\GitHub\\ProyectoSeminarioNotas\\ProyectoControlNotas\\ProyectoControlNotas.csproj",
+      "projectUniqueName": "C:\\Users\\jorgecifuentes\\Documents\\GitHub\\ProyectoSeminarioNotas\\ProyectoControlNotas\\ProyectoControlNotas.csproj",
       "projectName": "ProyectoControlNotas",
-      "projectPath": "C:\\Users\\Jojo\\Documents\\GitHub\\ProyectoSeminarioNotas\\ProyectoControlNotas\\ProyectoControlNotas.csproj",
-      "packagesPath": "C:\\Users\\Jojo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jojo\\Documents\\GitHub\\ProyectoSeminarioNotas\\ProyectoControlNotas\\obj\\",
+      "projectPath": "C:\\Users\\jorgecifuentes\\Documents\\GitHub\\ProyectoSeminarioNotas\\ProyectoControlNotas\\ProyectoControlNotas.csproj",
+      "packagesPath": "C:\\Users\\jorgecifuentes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorgecifuentes\\Documents\\GitHub\\ProyectoSeminarioNotas\\ProyectoControlNotas\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jojo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\jorgecifuentes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8675,8 +8670,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
